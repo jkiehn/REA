@@ -1,5 +1,7 @@
 rdfs:comment "Pairs a **Person** to an **Economic Unit**, reflecting organizational positioning of agents." ;
 
+rdfs:comment "assign associations link a Person to an Economic Unit, reflecting the positioning of agents in an organizational hierarchy. Source: Definition in REA Monograph v1.0, p.12" ;
+
 # assign
 
 **rdfs:label:** assign  
