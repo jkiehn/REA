@@ -13,7 +13,9 @@ Links a continuant (Economic Resource) to an occurrent (Economic Event) in a rel
 - **Range:** Economic Resource
 
 ## Roles
-- May be specialized as: `give`, `take`, `consume`/`use`, `produce` (optional in your ontology)
+- May be specialized as: `give`, `take` in exchanges
+- `consume`/`use`, `produce` in transformations
+- `reservation`/`expectation` for commitments
 
 ## Source
 REA Monograph (v0.90, 2019), Chapter 1, Associations; decomposition notes.
