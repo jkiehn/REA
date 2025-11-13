@@ -13,6 +13,6 @@ Makes the instance↔type link explicit as a first-class object so additional pr
 
 ## Related
 - `specifies` (shortcut property when reification is not required)
-- `EventType`, `ResourceType` (the target classifications)
+- `EventType`, `ResourceType` and  `AgentType` (the target classifications)
 
 _Last updated: 2025-11-04_
