@@ -15,5 +15,5 @@ Often used in trading-partner models (e.g., sales order, purchase order lines) o
 ## Related
 - `stockReservation` (Economic Commitment → Economic Resource)
 - `fulfills` (Economic Event → Commitment)
-
+- `reciprocity` (Economic Commitment → Economic Commitment)
 _Last updated: 2025-11-04_
